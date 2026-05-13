@@ -48,23 +48,6 @@ Remote-first developer working with international teams (PH-based company).
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-<!-- Dark Theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawminht&show_icons=true&theme=dark)
-
-<!-- Tokyo Night Theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawminht&show_icons=true&theme=tokyonight)
-
-<!-- Dracula Theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawminht&show_icons=true&theme=dracula)
-
-<!-- Gruvbox Theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyawminht&show_icons=true&theme=gruvbox)
-
----
 
 ## 🎯 What I Deliver
 
